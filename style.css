@@ -2,7 +2,7 @@
     height: 80px;
     background-color:rgb(212, 52, 52);
     position: fixed;
-    width: 1366px;
+    width: 1229px;
     z-index: 1;
 
     
@@ -33,7 +33,7 @@ body{
     padding: 0px;
     margin: 0px;
     background:url(banner.png);
-    background-size:  1366px 625px;
+    background-size:  1229px 625px;
     background-repeat: no-repeat;
 }
 .styleWelcome{
@@ -53,7 +53,7 @@ body{
     left: 0px;
     margin: 0px;
     padding: 0px;
-    width: 1350px;
+    width: 1229px;
     height: 60px;
     background-color: rgba(161, 155, 155, 0.787);
     
@@ -130,3 +130,52 @@ h1{
     left: 683px;
     right: 245px;
 }
+.styleJoinToday {
+    width: 1229px;
+    height: 250px;
+    background-color: rgb(194, 186, 186);
+    position: absolute;
+    top: 1250px;
+} 
+.styleJoinToday  h1{
+    color: black;
+    position: relative;
+    top: 20px;
+    left: 600PX;
+    bottom: 400PX;
+}
+.styleJoinToday p{
+    text-align: center;
+    
+}
+.styleJoinToday input{
+    background-color: white;
+    position: relative;
+    left: 550px;
+    border-radius: 25px;
+    border-color:white;
+    border-radius: 27px white;
+    font-size:x-large;
+    height: 40px;
+}
+.styleJoinToday input:hover{
+    position: relative;
+    left: 550px;
+    border-style: dashed;
+    border-radius: 25px;
+    border-color: black;
+    font-size:x-large;
+    height: 40px;
+}
+.finished{
+    width: 1229px;
+    height: 60px;
+    background-color: tomato;
+    position: absolute;
+    top: 1500px;
+}
+.finished p{
+    text-align: center;
+    color: white;
+    position: relative;
+    left: 40px;
