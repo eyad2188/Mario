@@ -2,7 +2,7 @@ body{
     padding: 0px;
     margin: 0px;
     background:url(banner.png);
-    background-size:  1229px 625px;
+    background-size:  1270px 625px;
     background-repeat: no-repeat;
     font-family: tahoma;
 }
@@ -10,7 +10,7 @@ body{
     height: 80px;
     background-color:rgb(233, 57, 57);
     position: fixed;
-    width: 1229px;
+    width: 1270px;
     z-index: 1;
 
     
@@ -69,7 +69,7 @@ body{
     left: 0px;
     margin: 0px;
     padding: 0px;
-    width: 1229px;
+    width: 1270px;
     height: 60px;
     background-color: rgba(223, 219, 219, 0.794);
 }
@@ -142,7 +142,7 @@ h1{
     right: 245px;
 }
 .styleJoinToday {
-    width: 1229px;
+    width: 1270px;
     height: 250px;
     background-color: rgba(248, 240, 240, 0.897);
     position: absolute;
@@ -179,7 +179,7 @@ h1{
     height: 40px;
 }
 .finished{
-    width: 1229px;
+    width: 1270px;
     height: 60px;
     background-color: tomato;
     position: absolute;
